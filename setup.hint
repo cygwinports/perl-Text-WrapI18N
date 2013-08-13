@@ -1,5 +1,0 @@
-category: Perl
-requires: perl perl-Text-CharWidth
-sdesc: "Perl module for line wrapping of i18n texts"
-ldesc: "This is a module which intends as a substitute for Text::Wrap
-which supports internationalized texts."

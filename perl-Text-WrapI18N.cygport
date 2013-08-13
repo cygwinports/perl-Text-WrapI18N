@@ -1,0 +1,10 @@
+CPAN_AUTHOR=kubota
+inherit perl
+
+NAME="perl-Text-WrapI18N"
+VERSION=0.06
+RELEASE=2
+CATEGORY="Perl"
+SUMMARY="Perl module for line wrapping of i18n texts"
+DESCRIPTION="This is a module which intends as a substitute for Text::Wrap
+which supports internationalized texts."
